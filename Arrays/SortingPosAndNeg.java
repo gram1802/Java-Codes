@@ -1,4 +1,3 @@
-package array;
 
 public class SortingPosAndNeg {
     public static void main(String[] args) {
