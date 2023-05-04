@@ -1,4 +1,4 @@
-package stringss;
+package Strings;
 import java.util.*;
 
 public class anagram {
