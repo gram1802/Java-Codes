@@ -1,4 +1,4 @@
-package pattern;
+package Patterns;
 class Question1{
 
 public static void main(String []args){

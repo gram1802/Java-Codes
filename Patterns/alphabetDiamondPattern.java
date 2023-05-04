@@ -1,4 +1,4 @@
-package pattern;
+package Patterns;
 
 
 public class alphabetDiamondPattern {
